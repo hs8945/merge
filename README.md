@@ -1,6 +1,6 @@
 这是在github上写的第一个简单程序，与其说写不如说是抄的更合适
 
- #!/usr/bin/env python \n
+ #!/usr/bin/env python
  #coding:utf-8
 from heapq import merge
 def merge_sort(seq):
